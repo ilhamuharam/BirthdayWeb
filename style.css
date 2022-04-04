@@ -160,6 +160,7 @@ img.rounded-corners {
   flex-wrap: wrap;
   padding: 100px 4px;
   width: 100%;
+  margin: auto;
 }
 
 /* Create four equal columns that sits next to each other */
