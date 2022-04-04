@@ -158,7 +158,7 @@ img.rounded-corners {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 100px 4px;
+  padding: 0 4px;
   width: 100%;
 }
 
@@ -170,7 +170,7 @@ img.rounded-corners {
 }
 
 .column img {
-  margin-top: 3px;
+  margin-top: -300px;
   vertical-align: middle;
   width: 100%;
   margin-bottom: 10px;
