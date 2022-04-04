@@ -158,9 +158,9 @@ img.rounded-corners {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 100px 4px;
   width: 100%;
-  height: auto;
+  height: 100vh;
 }
 
 /* Create four equal columns that sits next to each other */
